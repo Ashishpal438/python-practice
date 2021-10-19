@@ -1,0 +1,2 @@
+T = tuple()
+print(T)
